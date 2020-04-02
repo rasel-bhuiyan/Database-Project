@@ -1,1 +1,2 @@
-# My-Cold-Storage
+#inlcude<stdio.h>
+int main
